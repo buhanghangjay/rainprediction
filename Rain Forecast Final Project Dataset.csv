@@ -1,0 +1,37 @@
+Area,Month,Temperature,Rain Frequency
+ Makati       , January   ,28,5.5
+ Quezon City  , January   ,29,7.2
+ Manila       , January   ,30,3.8
+ Makati       , February  ,28,4.1
+ Quezon City  , February  ,30,6.5
+ Manila       , February  ,31,2.9
+ Makati       , March     ,27,4.5
+ Quezon City  , March     ,31,
+ Manila       , March     ,32,5.8
+ Makati       , April     ,26,3.2
+ Quezon City  , April     ,28,6.7
+ Manila       , April     ,30,4.1
+ Makati       , May       ,25,2.5
+ Quezon City  , May       ,27,5.6
+ Manila       , May       ,29,
+ Makati       , June      ,24,3.9
+ Quezon City  , June      ,,6.2
+ Manila       , June      ,28,4.6
+ Makati       , July      ,23,2.1
+ Quezon City  , July      ,25,5.4
+ Manila       , July      ,27,3.7
+ Makati       , August    ,22,4.2
+ Quezon City  , August    ,24,
+ Manila       , August    ,26,2.9
+ Makati       , September ,21,3.5
+ Quezon City  , September ,23,6.1
+ Manila       , September ,25,4.8
+ Makati       , October   ,20,
+ Quezon City  , October   ,22,5.3
+ Manila       , October   ,24,3.3
+ Makati       , November  ,19,2.8
+ Quezon City  , November  ,21,4.9
+ Manila       , November  ,23,
+ Makati       , December  ,18,3.1
+ Quezon City  , December  ,20,5.7
+ Manila       , December  ,22,2.6
